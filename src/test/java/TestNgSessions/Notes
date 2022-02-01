@@ -1,0 +1,18 @@
+TestNG --> unit testing FW
+JUnit
+Pytest ---Payton unit testin FW
+JavaScript --- Mocha / Jasmin
+purpose: to write the test case + Assertions +HTML report + other features 
+Global Pre Condition 
+  PreCondition 
+    Test Script
+       Act Vs expected 
+       Post steps 
+
+Launch Browser, Enter url
+Get the Title test ---> steps +assertion 
+login test 
+search test 
+add to cart test 
+close the browser 
+
